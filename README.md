@@ -51,3 +51,4 @@ During the departmental visit all the students were shown their respective depar
 
 ## Day 2
 ### English proficiency test:-(9:30 to 10:30)
+- It was comprised of basic topics of English. It was conducted by ours seniors. Classrooms were alloted to all the students according to their branch and section . There were two invigilators in every classroom for conducting test .
