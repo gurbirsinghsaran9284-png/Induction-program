@@ -38,10 +38,10 @@ We went to the auditorium, where everyone took their seats in anticipation. One 
 ### *Seventh Speaker (Dr. Kulwinder Singh Maan)*
 - He told us different career options that we get after doing a degree in CSE and IT .And also told us that there is not any major difference in these two branches.
 
-### *Eighth Speaker (Ashok Singhla) Financer
+### *Eighth Speaker (Ashok Singhla) Financer*
 - He told us about the educational loan that we can get from any bank without paying any interest on the amount . It was such a useful information that made the students aware those who took loan for their studies.
 
-### *Ninth Speaker (Mr. Kesh Kumar)
+### *Ninth Speaker (Mr. Kesh Kumar)*
 - He motivated us to study well and enjoy our college life in a balanced manner.
 
 ## Departmental Visit :- (2:00 to 4:00)
