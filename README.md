@@ -20,6 +20,6 @@ We went to the auditorium, where everyone took their seats in anticipation. One 
 ### *First Speaker*
 - She told us about establishment and achievements of GNDEC and also mentioned campus facilities,infrastructure and student life in GNDEC
 
-### *Second Speaker* (Dr. Harpreet Kaur) HOD of applied science 
+### *Second Speaker (Dr. Harpreet Kaur) HOD of applied science*
 - We as students of Cse were expecting that from the first day of the college,we will begin with our core branch subjects but she told us that in the first 2 semesters we will mainly focus on applied science.For the obvious queries of our minds, she explained to us that it will act as a bridge to shift from school academics to college academics.
 - 
