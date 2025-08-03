@@ -67,4 +67,8 @@ During the departmental visit all the students were shown their respective depar
 
 
 ## Day 3
+### Expert Lecture by Dr. Jaswinder Singh
+- He is a great personality who had been awarded many times from government of Punjab,government of India and also been awarded an "Asian Excellence Award" in 2022 for great contribution spreading science and mathematics .I was totally grateful to attend his lecture . With the help of some experiments and verbal explanation ,he explained us some concepts of science and mathematics by linking them to the "Gurbani".
+
+
 
