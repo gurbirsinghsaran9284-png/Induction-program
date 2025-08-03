@@ -17,3 +17,4 @@ After visting to Gurudwara Sahib ,refreshment was served to all my batch mates w
 ## Induction program at auditorium:- (10:00 to 4:00)
 We went to the auditorium, where everyone took their seats in anticipation. One by one, different individuals came up to the stage, each sharing valuable insights. They spoke about the history, the journey of establishment, and the significant achievements over the years. Their words gave us a deeper understanding and appreciation of the institution’s legacy and growth.
 
+### *First Speaker*
