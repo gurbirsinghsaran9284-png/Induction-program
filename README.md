@@ -62,7 +62,7 @@ During the departmental visit all the students were shown their respective depar
 - He gave an expert lecture of one hour on "Food:A Pivotal Role in Student's Overall Wellness" in the college auditorium. They told us about how to maintain our diet so that we could actively focus on our study. He also exposed the major myths on food of our society .
 
 ### Session by Causmic Club:-(1:00 to 2:00)
-- The members of the Causmic Club told us about the activities done by them and great initiatives taken by the groups. One of them was launch of induction program . They also informed us about the repositories that we all have to prepare and submit to them.
+- The members of the Causmic Club told us about the activities done by them and great initiatives taken by the groups. One of them was launch of induction program . They also informed us about the repositories that we all have to prepare and submit to them.They also taught us how to run github app and prepare repository.
 
 
 
