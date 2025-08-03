@@ -22,4 +22,13 @@ We went to the auditorium, where everyone took their seats in anticipation. One 
 
 ### *Second Speaker (Dr. Harpreet Kaur) HOD of applied science*
 - We as students of Cse were expecting that from the first day of the college,we will begin with our core branch subjects but she told us that in the first 2 semesters we will mainly focus on applied science.For the obvious queries of our minds, she explained to us that it will act as a bridge to shift from school academics to college academics.
-- 
+
+### *Third Speaker (Dr. Akshay Girdhar) Dean*
+- He motivated us to study well for our better future and along with this also suggested us to participate in extracurricular activities because of their great importance and role in building better human qualities in us.
+
+### *Fourth Speaker (Harleen Kaur)
+- She told us about the life at GNDEC and also informed us about the rules of the college such as :- Discipline,Compulsory 75% attendence and good academic marks.
+
+### *Fifth Speaker (Dr. Sehajpal Singh) Principal ,GNDEC,Ludhiana 
+- Firstly, He welcomed the new batch of CSE and IT 2025 and then told us about the key roles of engineering in our daily life . He then made us aware of the growing cometition in the field of computer science engineering and inspired us to work hard to compete with all other students.
+
