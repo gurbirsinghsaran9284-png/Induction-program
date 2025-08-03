@@ -47,3 +47,7 @@ We went to the auditorium, where everyone took their seats in anticipation. One 
 ## Departmental Visit :- (2:00 to 4:00)
 During the departmental visit all the students were shown their respective department building and classroom. We all were greeted by our teachers,mentors,Hod and heads of various groups.
 
+
+
+## Day 2
+### English proficiency test:-(9:30 to 10:30)
