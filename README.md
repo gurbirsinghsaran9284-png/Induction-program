@@ -54,5 +54,13 @@ During the departmental visit all the students were shown their respective depar
 - It was comprised of basic topics of English. It was conducted by ours seniors. Classrooms were alloted to all the students according to their branch and section . There were two invigilators in every classroom for conducting test and ensuring that students are doing their test fairly.
 
 ### Maths proficiency test :-(10:30 to 11:30)
-- Similarly,it contained the basic concepts of mathematics. All the students gave their test in the same classroom as there was in the english test.
+- Similarly,it contained the basic concepts of mathematics. All the students gave their test in the same classroom as there was in the english test with the same instructions and rules.
+
+### Break :-(11:30 to 1:00)
+
+### Expert lecture by Dr.Arashdeep Singh:-(1:00 to 2:00)
+- He gave an expert lecture of one hour on "Food:A Pivotal Role in Student's Overall Wellness" in the college auditorium. They told us about how to maintain our diet so that we could actively focus on our study. He also exposed the major myths on food of our society .
+
+### Session by Causmic Club:-(1:00 to 2:00)
+- The members of the Causmic Club told us about the activities done by them and great initiatives taken by the groups. One of them was launch of induction program . They also informed us about the report
 
