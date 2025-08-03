@@ -67,8 +67,9 @@ During the departmental visit all the students were shown their respective depar
 
 
 ## Day 3
-### Expert Lecture by Dr. Jaswinder Singh
-- He is a great personality who had been awarded many times from government of Punjab,government of India and also been awarded an "Asian Excellence Award" in 2022 for great contribution spreading science and mathematics .I was totally grateful to attend his lecture . With the help of some experiments and verbal explanation ,he explained us some concepts of science and mathematics by linking them to the "Gurbani".
+### Expert Lecture by Dr. Jaswinder Singh:-(9:00 to 11:00)
+- He is a great personality who had been awarded many times from government of Punjab,government of India and also been awarded an "Asian Excellence Award" in 2022 for great contribution in spreading science and mathematics .I was totally grateful to attend his lecture . With the help of some experiments and verbal explanation ,he explained us some concepts of science and mathematics by linking them to the "Gurbani".
 
-
+### Expert Lecture by Dr. Priya Darshni Madam(11:00 to 1:00)
+- The lecture was given in the auditorium to students of CSE and IT for 2 hours on "Universal Human Values".It was an interactive lecture between students and lecturer in which students asked many queries about the problems of their daily life and their actual ultimate goal.Ultimately, she taught us that basic aspiration of a human being is continuity of happiness and prosperity.Right understanding, relationship and physical faclity, with the comect priority, are required for fulfilling the basic aspiration.
 
