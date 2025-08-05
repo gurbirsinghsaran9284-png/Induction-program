@@ -91,3 +91,6 @@ During the departmental visit all the students were shown their respective depar
 - Following her introduction, she invited each student to introduce themselves one by one. We were asked to share our name, the school from which we completed our 12th grade, our hobbies, strengths, and weaknesses. This interactive activity not only helped the professor learn more about us but also encouraged us to know our classmates better.
 
 - Overall, the session was engaging and informal. It successfully created a comfortable and communicative atmosphere, setting a positive tone for the rest of the semester.
+
+### Expert Lecture by Dr. Priya Darshni :- (12:30 to 2:30)
+- 
