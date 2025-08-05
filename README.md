@@ -82,3 +82,12 @@ During the departmental visit all the students were shown their respective depar
 - The lecture was interactive and informative. The senior explained each concept clearly and provided practical examples to help us understand the application of the syntax. Basic programs such as printing a message, taking user input, and performing addition of two numbers were demonstrated.
 
 - This session was very helpful for beginners and provided a strong foundation for further learning in C++. We are looking forward to more such P2P sessions.
+
+### English Lecture :-(10:30 to 11:30)
+- The first English lecture was conducted by our professor Manjot Kaur, and it primarily served as an introductory session. The objective of the class was to get acquainted with one another and to set a friendly and open environment for upcoming lectures.
+
+- The session began with a brief introduction by the professor. She shared her name, academic background, teaching experience, and her expectations from the course. Her warm and approachable demeanor helped ease any nervousness among the students.
+
+- Following her introduction, she invited each student to introduce themselves one by one. We were asked to share our name, the school from which we completed our 12th grade, our hobbies, strengths, and weaknesses. This interactive activity not only helped the professor learn more about us but also encouraged us to know our classmates better.
+
+- Overall, the session was engaging and informal. It successfully created a comfortable and communicative atmosphere, setting a positive tone for the rest of the semester.
