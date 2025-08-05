@@ -73,3 +73,12 @@ During the departmental visit all the students were shown their respective depar
 ### Expert Lecture by Dr. Priya Darshni Madam(11:00 to 1:00)
 - The lecture was given in the auditorium to students of CSE and IT for 2 hours on "Universal Human Values".It was an interactive lecture between students and lecturer in which students asked many queries about the problems of their daily life and their actual goal of life.Ultimately, she taught us that basic aspiration of a human being is continuity of happiness and prosperity.Right understanding, relationship and physical facility, with the comect priority, are required for fulfilling the basic aspiration.
 
+## Day 4
+### P2P Lecture :-(9:30 to 10:30)
+- A Peer-to-Peer (P2P) lecture was conducted on [insert date], where one of our seniors led a session on the fundamentals of C++ programming. The session aimed to introduce us to the basics of the language, focusing on syntax, structure, and writing simple code.
+
+The senior began by explaining the structure of a basic C++ program, including the use of #include, the main() function, and the concept of statements ending with a semicolon. We also learned about variables, data types, input/output using cin and cout, and how to write a simple program to display a message or perform basic arithmetic operations.
+
+The lecture was interactive and informative. The senior explained each concept clearly and provided practical examples to help us understand the application of the syntax. Basic programs such as printing a message, taking user input, and performing addition of two numbers were demonstrated.
+
+This session was very helpful for beginners and provided a strong foundation for further learning in C++. We are looking forward to more such P2P sessions.
