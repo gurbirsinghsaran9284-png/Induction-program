@@ -141,8 +141,8 @@ External assessment is the final college exam conducted at the end of the semest
 ### Maths Lecture :-(10:30 to 11:30)by Professor Gagandeep Kaur 
 - The first lecture of Mathematics was conducted by Professor Gagandeep Kaur. Unlike a typical introductory session, she chose to begin with a practical and focused approach.
 - Instead of asking students to introduce themselves, she emphasized the importance of regular study habits and maintaining discipline throughout the course. She highlighted that in order to score well in mathematics, students must:
-Attend lectures regularly without missing classes
-Revise daily whatever is taught in class
-Complete assignments on time and submit them as instructed
-Maintain consistency and practice problems regularly
+Attend lectures regularly without missing classes.
+Revise daily whatever is taught in class.
+Complete assignments on time and submit them as instructed.
+Maintain consistency and practice problems regularly.
 - Her advice encouraged students to take the subject seriously from the very beginning. The session was motivational and practical, setting the tone for a productive semester ahead.
