@@ -104,3 +104,12 @@ During the departmental visit all the students were shown their respective depar
 - The seminar helped us understand that real happiness stems from within, and can be achieved by nurturing the right understanding, fulfilling necessary physical needs in balance, and building genuine human relationships. It inspired us to reflect on our current lifestyle and consider aligning it more closely with these universal human values.
 
 ### Session by Causmic Club:-(2:30 to 3:30)
+- A seminar was conducted by Causmic, a tech-oriented group, where we were guided through the important process of selecting a laptop suitable for a coding career. The session was highly informative and beneficial, especially for students pursuing computer science and related fields.
+
+- The speaker from Causmic explained in detail how to choose the right laptop based on individual needs and various budget ranges. The session covered key factors such as processor type, RAM, storage (SSD vs HDD), graphics card requirements, and screen quality. Special emphasis was placed on balancing performance with affordability. The speaker also highlighted some ideal laptop options for beginners, intermediate learners, and professional developers.
+
+- The interactive session helped us understand what specifications matter the most for programming, web development, and software projects. We also received tips on reliable brands and long-term value for money.
+
+- After the technical discussion, the mood lightened with live music performances by members of the Causmic group. One of the members performed a few songs, creating an enjoyable and engaging atmosphere. Later, another member joined and performed a beautiful solo that was deeply appreciated by the audience.
+
+- Overall, the seminar was not only educational but also entertaining, combining tech knowledge with a touch of creativity and music. It was a refreshing and productive experience for all attendees.
