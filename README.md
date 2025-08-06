@@ -93,4 +93,22 @@ During the departmental visit all the students were shown their respective depar
 - Overall, the session was engaging and informal. It successfully created a comfortable and communicative atmosphere, setting a positive tone for the rest of the semester.
 
 ### Expert Lecture by Dr. Priya Darshni :- (12:30 to 2:30)
-- 
+- a two-hour seminar on Universal Human Values was conducted by Professor [Name]. The session was highly informative and insightful, focusing on the foundational aspects of human values and their connection to ultimate happiness.
+
+The seminar primarily revolved around three core components:
+	1.	Physical Facility:
+The professor began by discussing physical facilities, referring to the material requirements that are essential for survival and comfort — such as food, clothing, shelter, and other physical resources. However, it was emphasized that while physical facilities are necessary, they are not sufficient for lasting happiness.
+	2.	Right Understanding:
+The session moved into the concept of right understanding, which involves having clarity about the self, relationships, and the nature of existence. The professor stressed that a clear understanding of life’s purpose, our role in society, and self-awareness plays a major role in leading a meaningful and fulfilling life.
+	3.	Relationship:
+The third pillar of the seminar focused on human relationships. Emphasis was placed on mutual respect, trust, and affection as the basis for strong, value-based relationships. The professor highlighted that harmonious relationships are essential for social well-being and inner peace.
+
+Throughout the seminar, the underlying message was that ultimate happiness is not just about accumulating physical wealth, but about balancing material needs with emotional and intellectual clarity, and maintaining meaningful human connections.
+
+The session concluded with an interactive Q&A segment, allowing students to express their thoughts and ask questions. It was an enlightening experience that encouraged deep reflection on personal values and goals.
+
+⸻
+
+Conclusion
+
+The seminar helped us understand that real happiness stems from within, and can be achieved by nurturing the right understanding, fulfilling necessary physical needs in balance, and building genuine human relationships. It inspired us to reflect on our current lifestyle and consider aligning it more closely with these universal human values.
