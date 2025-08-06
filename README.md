@@ -105,3 +105,7 @@ During the departmental visit all the students were shown their respective depar
 
 ## Day 5
 ### BEEE Lecture :-(10:30 to 11:30)by Professor Harminder Kaur
+- A lecture on Basic Electrical and Electronics Engineering (BEEE) was conducted by Professor Harminder Kaur. The session began with the professor introducing the subject and explaining the full form of BEEE. She highlighted the importance of the subject in the field of engineering and gave a brief overview of what students can expect to learn throughout the course.
+- Following the subject introduction, Professor Harminder Kaur introduced herself, sharing her academic background and teaching experience. Her warm and engaging style made the environment comfortable for all students.
+- After her introduction, she encouraged the students to introduce themselves. Each student shared their name, the school from which they completed their 12th grade, their hobbies, and any strengths or weaknesses they felt were important to mention. This activity helped foster a sense of connection and interaction between the students and the professor.
+- Overall, the lecture served as a great introduction to the BEEE course and helped establish a welcoming classroom environment.
