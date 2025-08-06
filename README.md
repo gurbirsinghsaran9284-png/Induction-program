@@ -102,3 +102,5 @@ During the departmental visit all the students were shown their respective depar
 - Throughout the seminar, the underlying message was that ultimate happiness is not just about accumulating physical wealth, but about balancing material needs with emotional and intellectual clarity, and maintaining meaningful human connections.
 - The session concluded with an interactive Q&A segment, allowing students to express their thoughts and ask questions. It was an enlightening experience that encouraged deep reflection on personal values and goals.
 - The seminar helped us understand that real happiness stems from within, and can be achieved by nurturing the right understanding, fulfilling necessary physical needs in balance, and building genuine human relationships. It inspired us to reflect on our current lifestyle and consider aligning it more closely with these universal human values.
+
+### Session by Causmic Club:-(2:30 to 3:30)
