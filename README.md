@@ -137,3 +137,12 @@ Internal assessment includes assignments, class tests, and attendance.
 External assessment is the final college exam conducted at the end of the semester.
 - This session helped students understand how their performance will be evaluated throughout the course and emphasized the importance of both theory and practical work.
 - The lecture was informative and clarified the academic expectations from the students in this subject.
+
+### Maths Lecture :-(10:30 to 11:30)by Professor Gagandeep Kaur 
+- The first lecture of Mathematics was conducted by Professor Gagandeep Kaur. Unlike a typical introductory session, she chose to begin with a practical and focused approach.
+- Instead of asking students to introduce themselves, she emphasized the importance of regular study habits and maintaining discipline throughout the course. She highlighted that in order to score well in mathematics, students must:
+Attend lectures regularly without missing classes
+Revise daily whatever is taught in class
+Complete assignments on time and submit them as instructed
+Maintain consistency and practice problems regularly
+- Her advice encouraged students to take the subject seriously from the very beginning. The session was motivational and practical, setting the tone for a productive semester ahead.
