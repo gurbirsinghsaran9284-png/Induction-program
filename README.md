@@ -119,3 +119,10 @@ During the departmental visit all the students were shown their respective depar
 - Several students actively responded, and the Professor appreciated their participation. She then explained the definition of chemistry in a simplified manner and described its various branches such as organic, inorganic, physical, analytical, and biochemistry, along with their significance and applications in real life.
 - After this discussion, she encouraged every student to introduce themselves. We were asked to share our names, educational backgrounds, interests, and expectations from the subject.
 - Overall, the session was interactive and informative. It served as a good ice-breaker and helped create a comfortable learning environment for the upcoming lectures in chemistry.
+
+### ID Card Formation :-(2:00 to 4:30)
+- On the given day, all students of CSE Section B were instructed to report to the seminar hall for the purpose of collecting data for the college identity card.
+- Upon reaching the seminar hall, we were asked to stand in a line and wait for our turn. Each student was required to submit a photocopy of their Aadhaar card along with some additional personal details as instructed by the faculty or staff present.
+- After document submission, a photograph of each student was taken on the spot, which would be used on the college ID card.
+- The entire process was organized and smooth, and after completing the required steps, we were allowed to leave.
+- The session was brief but important as it was conducted for official college documentation and identification purposes.
