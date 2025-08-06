@@ -126,3 +126,14 @@ During the departmental visit all the students were shown their respective depar
 - After document submission, a photograph of each student was taken on the spot, which would be used on the college ID card.
 - The entire process was organized and smooth, and after completing the required steps, we were allowed to leave.
 - The session was brief but important as it was conducted for official college documentation and identification purposes.
+
+## Day 6
+### Chemistry Lecture :-(9:30 to 10:30) by Professor Mandeep Kaur
+- In the second lecture of Chemistry, Professor Mandeep Kaur focused on explaining the marking scheme of the subject. She clearly described how the total marks are distributed among various components including theory, practical, internal, and external assessments.
+- She explained the following key points:
+The theory portion carries a specific number of marks evaluated through college examinations.
+The practical section includes lab work and experiments, and is assessed based on performance and viva.
+Internal assessment includes assignments, class tests, and attendance.
+External assessment is the final college exam conducted at the end of the semester.
+- This session helped students understand how their performance will be evaluated throughout the course and emphasized the importance of both theory and practical work.
+- The lecture was informative and clarified the academic expectations from the students in this subject.
