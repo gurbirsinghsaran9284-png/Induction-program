@@ -76,25 +76,18 @@ During the departmental visit all the students were shown their respective depar
 ## Day 4
 ### P2P Lecture :-(9:30 to 10:30)
 - A Peer-to-Peer (P2P) lecture was conducted, where our seniors led a session on the fundamentals of C++ programming. The session aimed to introduce us to the basics of the language, focusing on syntax, structure, and writing simple code.
-
 - The senior began by explaining the structure of a basic C++ program, including the use of #include, the main() function, and the concept of statements ending with a semicolon. We also learned about variables, data types, input/output using cin and cout, and how to write a simple program to display a message or perform basic arithmetic operations.
-
 - The lecture was interactive and informative. The senior explained each concept clearly and provided practical examples to help us understand the application of the syntax. Basic programs such as printing a message, taking user input, and performing addition of two numbers were demonstrated.
-
 - This session was very helpful for beginners and provided a strong foundation for further learning in C++. We are looking forward to more such P2P sessions.
 
 ### English Lecture :-(10:30 to 11:30)
 - The first English lecture was conducted by our professor Manjot Kaur, and it primarily served as an introductory session. The objective of the class was to get acquainted with one another and to set a friendly and open environment for upcoming lectures.
-
 - The session began with a brief introduction by the professor. She shared her name, academic background, teaching experience, and her expectations from the course. Her warm and approachable demeanor helped ease any nervousness among the students.
-
 - Following her introduction, she invited each student to introduce themselves one by one. We were asked to share our name, the school from which we completed our 12th grade, our hobbies, strengths, and weaknesses. This interactive activity not only helped the professor learn more about us but also encouraged us to know our classmates better.
-
 - Overall, the session was engaging and informal. It successfully created a comfortable and communicative atmosphere, setting a positive tone for the rest of the semester.
 
 ### Expert Lecture by Dr. Priya Darshni :- (12:30 to 2:30)
 - A two-hour seminar on Universal Human Values was conducted by Dr.Priya Darshani . The session was highly informative and insightful, focusing on the foundational aspects of human values and their connection to ultimate happiness.
-
 - The seminar primarily revolved around three core components:
 - The professor began by discussing physical facilities, referring to the material requirements that are essential for survival and comfort — such as food, clothing, shelter, and other physical resources. However, it was emphasized that while physical facilities are necessary, they are not sufficient for lasting happiness.
 - The session moved into the concept of right understanding, which involves having clarity about the self, relationships, and the nature of existence. The professor stressed that a clear understanding of life’s purpose, our role in society, and self-awareness plays a major role in leading a meaningful and fulfilling life.
@@ -105,11 +98,10 @@ During the departmental visit all the students were shown their respective depar
 
 ### Session by Causmic Club:-(2:30 to 3:30)
 - A seminar was conducted by Causmic, a tech-oriented group, where we were guided through the important process of selecting a laptop suitable for a coding career. The session was highly informative and beneficial, especially for students pursuing computer science and related fields.
-
 - The speaker from Causmic explained in detail how to choose the right laptop based on individual needs and various budget ranges. The session covered key factors such as processor type, RAM, storage (SSD vs HDD), graphics card requirements, and screen quality. Special emphasis was placed on balancing performance with affordability. The speaker also highlighted some ideal laptop options for beginners, intermediate learners, and professional developers.
-
 - The interactive session helped us understand what specifications matter the most for programming, web development, and software projects. We also received tips on reliable brands and long-term value for money.
-
 - After the technical discussion, the mood lightened with live music performances by members of the Causmic group. One of the members performed a few songs, creating an enjoyable and engaging atmosphere. Later, another member joined and performed a beautiful solo that was deeply appreciated by the audience.
-
 - Overall, the seminar was not only educational but also entertaining, combining tech knowledge with a touch of creativity and music. It was a refreshing and productive experience for all attendees.
+
+## Day 5
+### BEEE Lecture :-(10:30 to 11:30)by Professor Harminder Kaur
