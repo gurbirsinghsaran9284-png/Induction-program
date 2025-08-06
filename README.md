@@ -109,3 +109,13 @@ During the departmental visit all the students were shown their respective depar
 - Following the subject introduction, Professor Harminder Kaur introduced herself, sharing her academic background and teaching experience. Her warm and engaging style made the environment comfortable for all students.
 - After her introduction, she encouraged the students to introduce themselves. Each student shared their name, the school from which they completed their 12th grade, their hobbies, and any strengths or weaknesses they felt were important to mention. This activity helped foster a sense of connection and interaction between the students and the professor.
 - Overall, the lecture served as a great introduction to the BEEE course and helped establish a welcoming classroom environment.
+
+### Chemistry Lecture :-(11:30 to 12:30)by Professor Mandeep Kaur
+- The lecture was conducted by Professor Mandeep Kaur, who began the session by giving a brief introduction about herself, including her academic background and teaching experience. She welcomed the students warmly and set a friendly and engaging tone for the class.
+- To initiate interaction, Professor Kaur asked the students some basic yet thought-provoking questions related to chemistry. These included:
+	•	What is Chemistry?
+	•	What are the different branches of chemistry?
+	•	What do these branches focus on?
+- Several students actively responded, and the Professor appreciated their participation. She then explained the definition of chemistry in a simplified manner and described its various branches such as organic, inorganic, physical, analytical, and biochemistry, along with their significance and applications in real life.
+- After this discussion, she encouraged every student to introduce themselves. We were asked to share our names, educational backgrounds, interests, and expectations from the subject.
+- Overall, the session was interactive and informative. It served as a good ice-breaker and helped create a comfortable learning environment for the upcoming lectures in chemistry.
