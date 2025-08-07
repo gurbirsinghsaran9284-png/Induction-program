@@ -146,3 +146,45 @@ Revise daily whatever is taught in class.
 Complete assignments on time and submit them as instructed.
 Maintain consistency and practice problems regularly.
 - Her advice encouraged students to take the subject seriously from the very beginning. The session was motivational and practical, setting the tone for a productive semester ahead.
+
+### Lecture by S.Gurcharan Singh Grewal :-(12:30 to 1:30)
+- We had the opportunity to attend an enlightening and heartwarming lecture by Sardar Gurcharan Singh Grewal, one of the respected trustees of our college. His presence and words added great value to the session.
+- He began his talk in a very simple and engaging manner, instantly creating a friendly and welcoming environment. He shared his personal journey of being connected to the college, starting as a student himself. He spoke with pride and nostalgia about his experiences during those formative years.
+- Towards the end of the session, he interacted with the students and asked for their honest feedback about how they felt the college was functioning. This showed his continued commitment to ensuring a good experience for students even today.
+- Overall, the lecture was motivating, humble, and enjoyable, leaving us all inspired by his journey and dedication.
+
+### Lecture by Dr.Lakhvir Singh Khanna:-(1:30 to 4:00)
+
+## Day 7
+### Lecture by Dr.Amit kamra:-(9:30 to 10:30)
+- We attended an insightful lecture delivered by Dr. Amit Kamra, the incharge of the Digital Marketing Club of our college. The session focused on the evolution of the college’s online presence and the important role played by creative students in shaping it.
+- Dr. Kamra began by sharing how he initially took the initiative to represent the official college pages on the internet, which marked the beginning of a strong digital identity for our college. With growing interest and need, he went on to form the Digital Marketing Club, which brought together students with creative skills and a passion for content, design, and promotion.
+- He highlighted how the members of the club have contributed significantly in promoting college events, maintaining social media presence, and creating engaging content that reflects the spirit and achievements of the institution.
+- Toward the end of the lecture, Dr. Kamra warmly invited us to join the club, encouraging interested students to bring in their creativity and contribute to taking the college’s digital reach to greater heights.
+- The session was motivating and informative, especially for students interested in digital content, marketing, and media management. 
+
+### Lecture by Dr.Parminder Singh:-(10:30 to 11:30)
+- Then,we had the opportunity to attend an informative lecture by Dr. Parminder Singh, the Dean of Student Welfare of our college. The session was focused on introducing students to the various clubs and student-led initiatives available on campus.
+- Dr. Parminder Singh spoke about the range of clubs in the college that cater to different interests and talents — including technical, cultural, literary, sports, social service, and more. He explained how these clubs play a vital role in enhancing the overall personality and skill development of students beyond academics.
+- He emphasized the importance of participating in extracurricular activities, stating that involvement in such clubs not only helps build confidence and leadership skills but also fosters teamwork, communication, and a sense of responsibility.
+- The session helped students understand how to explore their interests, contribute to the college community, and make the most of their time during their academic journey.
+- Overall, the lecture was engaging, informative, and motivating, encouraging all of us to actively participate in the vibrant student life that our college offers.
+
+### Lecture by Dr.Randhir Singh:-(11:30 to 12:30)
+- Dr. Randhir Singh clearly outlined how the college examinations are conducted, including the structure and pattern followed during both internal and external assessments. He discussed in detail the criteria for awarding marks, highlighting the importance of regular study and performance throughout the semester.
+- He also informed us about the minimum passing marks required in each subject and emphasized the need to maintain academic consistency.
+- One of the most crucial points he made was regarding attendance. He strictly mentioned that a minimum of 75% attendance is mandatory in each subject, and failing to meet this requirement may result in students being disallowed from appearing in exams.
+- The session served as a valuable reminder of the academic discipline expected from all students and helped clarify many doubts related to examination policies.Overall, the lecture was clear, informative, and essential.
+
+### BEEE Lecture by professor Mandeep Kaur :-(1:30 to 2:30)
+- We attended the second lecture of Basic Electrical and Electronics Engineering (BEEE) conducted by Professor Mandeep Kaur.
+- In this session, she began teaching the first chapter of our syllabus – DC Circuits. The lecture focused on introducing the basic concepts related to DC circuits, laying the foundation for the upcoming topics. She explained fundamental terms and principles necessary to understand how direct current flows in electrical circuits.
+- Her explanation was clear and easy to follow, which helped us grasp the initial concepts effectively. The lecture served as a strong starting point for understanding more complex topics in the future.
+- Overall, the session was informative and well-structured, providing us with the basic understanding required to move forward in the subject.
+
+### P2P Lecture :-(2:30 to 3:30)
+- We attended the second Peer-to-Peer (P2P) lecture conducted by our seniors, where we continued learning the basics of C++ programming.
+- In this session, they introduced us to two important topics: the loop method and the else-if method. These concepts were explained through simple and practical examples that made them easy to understand.
+- To explain the else-if method, they used an example of a grading system, where marks were used to determine different grades. This helped us understand how conditional statements work in decision-making within a program.
+- They also demonstrated the loop method using a program that prints numbers from 1 to 10, showing how loops can be used for repeated tasks in coding.
+- The session was interactive, beginner-friendly, and highly useful, helping us strengthen our understanding of basic programming logic in C++.
