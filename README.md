@@ -154,6 +154,10 @@ Maintain consistency and practice problems regularly.
 - Overall, the lecture was motivating, humble, and enjoyable, leaving us all inspired by his journey and dedication.
 
 ### Lecture by Dr.Lakhvir Singh Khanna:-(1:30 to 4:00)
+- we attended an informative lecture delivered by Dr. Lakhvir Singh Khanna, where he introduced us to two significant academic resources available to students — the Center for Multi-faceted Learning (CML) and NPTEL (National Programme on Technology Enhanced Learning).
+- Dr. Khanna explained the purpose and vision of the CML, which aims to promote holistic and skill-based learning among students. The center provides various platforms and opportunities for students to explore their interests beyond classroom learning and become industry-ready.
+- He also gave us an overview of NPTEL, a government initiative that offers online courses developed by IITs and IISc, covering a wide range of technical and non-technical subjects. He encouraged us to make use of this platform to enhance our knowledge and skills, and even earn certificates that carry academic and professional value.
+- The session was highly beneficial and motivating, especially for students who wish to take initiative in self-learning and skill development.
 
 ## Day 7
 ### Lecture by Dr.Amit kamra:-(9:30 to 10:30)
