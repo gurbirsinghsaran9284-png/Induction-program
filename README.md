@@ -193,7 +193,7 @@ Maintain consistency and practice problems regularly.
 - They also demonstrated the loop method using a program that prints numbers from 1 to 10, showing how loops can be used for repeated tasks in coding.
 - The session was interactive, beginner-friendly, and highly useful, helping us strengthen our understanding of basic programming logic in C++.
 
-## Day 7
+## Day 8
 ### lecture by Mrs.Shaffy Makkar on Millets:- (9:00 to 10:30)
 - Our college organized an insightful lecture delivered by Mrs. Shaffy Makkar on the topic “Millets – The Super Food.” She began by introducing the concept of millets and explained that they are classified into three categories — positive, negative, and zero (neutral) — based on their nutritional and health impact.
 - Mrs. Makkar informed us that millets were a staple part of our daily meals before the 1960s, prior to the Green Revolution, and played a major role in maintaining a healthy lifestyle. She highlighted the remarkable benefits of consuming millets, stating that they strengthen our bodies much like gym workouts, but without the need for actual gym visits.
