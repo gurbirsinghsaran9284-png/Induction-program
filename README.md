@@ -192,3 +192,16 @@ Maintain consistency and practice problems regularly.
 - To explain the else-if method, they used an example of a grading system, where marks were used to determine different grades. This helped us understand how conditional statements work in decision-making within a program.
 - They also demonstrated the loop method using a program that prints numbers from 1 to 10, showing how loops can be used for repeated tasks in coding.
 - The session was interactive, beginner-friendly, and highly useful, helping us strengthen our understanding of basic programming logic in C++.
+
+## Day 7
+### lecture by Mrs.Shaffy Makkar on Millets:- (9:00 to 10:30)
+- Our college organized an insightful lecture delivered by Mrs. Shaffy Makkar on the topic “Millets – The Super Food.” She began by introducing the concept of millets and explained that they are classified into three categories — positive, negative, and zero (neutral) — based on their nutritional and health impact.
+- Mrs. Makkar informed us that millets were a staple part of our daily meals before the 1960s, prior to the Green Revolution, and played a major role in maintaining a healthy lifestyle. She highlighted the remarkable benefits of consuming millets, stating that they strengthen our bodies much like gym workouts, but without the need for actual gym visits.
+- Furthermore, she explained that regular consumption of millets can help prevent and even cure various diseases, including diabetes and cancer, due to their rich nutrient content and health-boosting properties. Towards the end of her lecture, she encouraged everyone to incorporate millets into their daily diet to remain healthy, active, and fit.
+- The session was highly informative and inspired us to rethink our food choices for better health and well-being.
+
+### Maths lecture by Professor Gagandeep Kaur:-(10:30 to 12:00)
+- Our Mathematics second lecture was conducted by Professor Gagandeep Kaur. In this session, sections A and B were combined, and as it was the first lecture for section A, she did not begin teaching the syllabus. Instead, she shared some basic concepts to build our foundational understanding.
+- She explained the correct direction of curves in an engaging and relatable way, using everyday examples that made the concept easy to visualize. These included the path followed in a 400 m round race, the sequence of pheras during Indian marriage rituals, and the traditional positions of the bride and groom. By connecting mathematical ideas to cultural and real-life situations, she made the topic both memorable and enjoyable, showing us that mathematics is not confined to textbooks but is present in the patterns and movements of our daily lives.
+- Professor Gagandeep Kaur also discussed certain common assumptions and challenged them with logical reasoning, for example — whether the number of whole numbers is more than natural numbers, and whether the number of real numbers is more than integers, along with several similar thought-provoking comparisons.
+- The lecture was engaging and helped us see mathematics from a practical and logical perspective before moving into the syllabus.
